@@ -1,0 +1,6 @@
+{"model number": "RX234",
+ "customers": ["Adam", "Paul"],
+ "price": 45000,
+ “quantity”: 12,
+ “company”: “Samsung”
+}
